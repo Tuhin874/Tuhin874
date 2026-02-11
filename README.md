@@ -1,41 +1,79 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://www.linkedin.com/in/arijeet-kar-98469b23a/)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Myself Tuhin Sarkar
-====================================================================================================================================
+# 👋 Hi, I'm Tuhin Sarkar
 
-* ✉️  You can contact me at [tuhin.sarkar874@gmail.com](mailto:tuhin.sarkar874@gmail.com)
-* 🧠  I'm currently learning web-devlopment and python
-* 🤝  I'm open to collaborating on interesting projects in Website Development
+🌱 **Fresher Python Backend Developer | Django | REST APIs | SQL**
 
-### Skills
+I’m a motivated fresher Python backend developer who enjoys building **simple, clean, and functional backend systems**.  
+I’m focused on learning industry best practices and improving my skills by building real projects.
 
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="PYTHON" width="36" height="36" alt="python" /></a>
-  
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" title="C++" width="36" height="36" alt="C++" /></a>
-  
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" title="HTML5" width="36" height="36" alt="HTML5" /></a>
-  
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" title="CSS3" width="36" height="36" alt="CSS3" /></a>
+## 🛠️ Skills & Technologies
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"  title="JAVASCRIPT" width="36" height="36" alt="JavaScript" /></a>
-</p>
+### 💻 Backend
+- Python
+- Django
+- Django REST Framework (Basics)
+- REST APIs
 
+### 🗄️ Databases
+- MySQL
+- SQLite
+- Basic PostgreSQL
 
-### Socials
+### ⚙️ Tools & Basics
+- Git & GitHub
+- Linux (Basics)
+- Postman
+- HTML, CSS, JavaScript (Basics)
 
-<p align="left"> <a href="https://www.github.com/Tuhin874" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tuhin-sarkar-b4323a289/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
 
+## 📂 Projects
 
-<b>My GitHub Stats</b>
+### 🔹 AI Desktop Assistant (Learning Project)
+**Tech:** Python, HTML, CSS, JavaScript  
+- Voice-controlled assistant
+- Hotword detection
+- Speech recognition
+- Python backend connected with frontend
 
-<a href="http://www.github.com/Tuhin874"><img src="https://github-readme-stats.vercel.app/api?username=Tuhin874&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tuhin874 stats" /></a>
+🔗 **Repository:** https://github.com/your-username/ai-desktop-assistant
 
-<a href="https://github.com/Tuhin874" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin874&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+### 🔹 Django Backend Practice Project
+**Tech:** Django, Django REST Framework, MySQL  
+- CRUD operations
+- REST API structure
+- Basic authentication
+- Clean project organization
 
-<div width="100%" align="center"><a href="https://github.com/Tuhin874/Siri_Desktop_Assistant" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuhin874&repo=Siri_Desktop_Assistant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Arijeet2580/BINOMIAL-DISTRIBUTION-PROBABILITY-FINDER" align="right">
-  <br /><br /><br /><br /><br /><br /><br />
+🔗 **Repository:** https://github.com/your-username/django-backend-project
 
-<div width="100%" align="center"><a href="https://github.com/Tuhin874/Netflix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuhin874&repo=Netflix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+---
+
+## 📚 Currently Learning
+- Django REST Framework (Advanced)
+- API authentication (JWT)
+- Backend best practices
+- Deployment basics
+
+---
+
+## 🎯 Career Objective
+To start my career as a **Python Backend Developer**, where I can:
+- Learn from experienced developers
+- Work on real-world backend systems
+- Improve my coding and problem-solving skills
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your-email@gmail.com
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
